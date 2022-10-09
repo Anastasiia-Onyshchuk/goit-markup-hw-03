@@ -90,7 +90,6 @@ display: flex;
 
 }
 .nav .link {
-    margin-right: 0;
     color: var(--secondary-text-color);
     font-weight: 500;
     font-size: 14px;
@@ -98,7 +97,7 @@ display: flex;
     letter-spacing: 0.02em;
     text-decoration: none;
 }
-.nav-item{
+.nav-item {
     display: block;
 margin-right: 50px;
 padding-top: 32px;
@@ -118,15 +117,19 @@ margin-right: 0;
 .nav .link.current {
     color: var(--hover-color);
 }
+.auth-nav{
+display: flex;
+}
 
 
-.header-contacts .contacts {
-    color: #757575;
-    font-weight: 500;
-    font-size: 14px;
-    line-height: 1.1;
-    letter-spacing: 0.02em;
-    text-decoration: none;
+.contacts {
+
+        color: #757575;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 1.1;
+        letter-spacing: 0.02em;
+        text-decoration: none;
 }
 
 .contacts:hover,
