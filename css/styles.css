@@ -152,13 +152,13 @@ margin-right: 50px;
     align-items: center;
     justify-content: center;
     text-align: center;
-    height: 600px;
+    padding-top: 200px;
+    padding-bottom: 200px;
 }
 .hero-title {
     margin: 0 auto;
     margin-bottom: 30px;
     margin-top: 0px;
-    padding-top: 200px;
     max-width: 696px;
     
     color: #FFFFFF;
