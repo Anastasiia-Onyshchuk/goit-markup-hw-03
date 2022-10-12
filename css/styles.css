@@ -243,12 +243,12 @@ margin-right: 50px;
 }
 .advantage-list-item{
 width: 270px;
-margin-left:  auto;
+margin-left: 0;
 margin-right:  auto;
 margin-right: 30px;
 }
 
-.activity-list-item:last-child{
+.advantage-list-item:last-child{
 margin-right: 0;
 }
 
@@ -266,6 +266,7 @@ margin-right: 0;
 
 .advantages-text{
     margin-top: 0;
+    margin-bottom: 0;
 }
 /* Our activity */
 .activity{
@@ -459,7 +460,7 @@ padding: 6px 22px;
     flex-basis: calc((100%-60PX)/3);
     margin-right: 30px;
     margin-bottom: 30px;
-    border: 1px solid #EEEEEE;
+    border-bottom: 1px solid #EEEEEE;
 }
 
 .portfolio-cards-element:nth-last-child(-n+3){
