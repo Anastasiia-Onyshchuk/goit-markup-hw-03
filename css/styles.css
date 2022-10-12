@@ -228,9 +228,8 @@ margin-right: 50px;
     display: flex;
     padding-top: 94px;
     padding-bottom: 94px;
-    align-items: center;
+    /* align-items: center; */
     margin-top: 0;
-
     font-size: 14px;
     line-height: 24px;
     letter-spacing: 0.03em;
@@ -240,7 +239,7 @@ width: 270px;
 margin-left: 0;
 margin-right:  auto;
 margin-right: 30px;
-align-items: center;
+
 }
 
 .advantage-list-item:last-child{
