@@ -240,12 +240,12 @@ width: 270px;
 margin-left: 0;
 margin-right:  auto;
 margin-right: 30px;
+align-items: center;
 }
 
 .advantage-list-item:last-child{
 margin-right: 0;
 }
-
 
 .advantages-list h3 {
     margin-top: 0;
